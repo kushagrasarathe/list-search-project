@@ -21,7 +21,6 @@ function search() {
             
         } else {
             menu_list[i].style.display = "none";
-            alert(`${menu_list[i]}`)
         }
     }
 };
