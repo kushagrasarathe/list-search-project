@@ -1,3 +1,3 @@
-# Search for your favourite form the menu.
+# Search for your favourite food from the menu.
 
 [Visit Here](https://kushagrasarathe.github.io/list-search-project/) 
